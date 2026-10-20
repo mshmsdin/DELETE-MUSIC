@@ -1,0 +1,6 @@
+.venv/
+models/
+__pycache__/
+*.py[cod]
+RemoveMusic.exe
+*.processing.*
